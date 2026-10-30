@@ -1,1 +1,3 @@
-print("One day will be the perfect for developing.")
+naam = input("Aapka naam kya hai? ")
+print("Salam", naam)
+print("Aaj se practice shuru!")
