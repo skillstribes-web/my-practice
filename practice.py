@@ -1,3 +1,5 @@
 naam = input("Aapka naam kya hai? ")
+umar = int(input("Aapki umar kya hai? "))
 print("Salam", naam)
+print("Aap", umar, "saal ke hain")
 print("Aaj se practice shuru!")
